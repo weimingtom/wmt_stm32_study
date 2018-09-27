@@ -6,6 +6,15 @@
 * https://www.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32-standard-peripheral-libraries/stsw-stm32054.html  
 * https://www.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32-standard-peripheral-libraries.html?querycriteria=productId=LN1939  
 
+## st-link  
+* http://en.radzio.dxp.pl/stm32vldiscovery/flashing,mcu,memory,using,st-link,command,line.html  
+* http://www.waveshare.net/wiki/STM32开发软件  
+* http://www.waveshare.net/w/upload/6/61/Stm32_st-link_utility.zip  
+* Use External Tool for Flash Programming
+* C:\Program Files\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe  
+* arguments : '-c SWD -p "$H@H.hex" -Rst -Run'  
+* Output > Create HEX File  
+
 ## Ref  
 * https://www.mouser.com/new/stmicroelectronics/stm32valueline/  
 * https://zhidao.baidu.com/question/202138616.html  
