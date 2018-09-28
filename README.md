@@ -29,3 +29,12 @@ Connectivity line STM32F105/107xx - 72 MHz CPU with Ethernet MAC, CAN and USB 2.
 * http://en.radzio.dxp.pl/stm32vldiscovery/  
 * https://github.com/thaletterb/STM32-SSD1306-128x64-I2C  
 
+## USART  
+MCBSTM32  
+http://www.keil.com/mcbstm32/  
+https://www.espruino.com/ReferenceSTM32VLDISCOVERY  
+http://en.radzio.dxp.pl/stm32vldiscovery/lesson8,communication,with,usart,basics.html  
+https://embedds.com/programming-stm32-usart-using-gcc-tools-part-1/  
+FT232RL  
+PL2303  
+
