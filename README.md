@@ -38,3 +38,6 @@ https://embedds.com/programming-stm32-usart-using-gcc-tools-part-1/
 FT232RL  
 PL2303  
 
+## MDK 4 Lite limit : 32KB  
+http://www.myir-tech.com/resource/426.asp  
+
