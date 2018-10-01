@@ -28,6 +28,10 @@ Performance line STM32F103xx - 72 MHz, up to 1 Mbyte Flash with motor control, U
 Connectivity line STM32F105/107xx - 72 MHz CPU with Ethernet MAC, CAN and USB 2.0 OTG  
 * http://en.radzio.dxp.pl/stm32vldiscovery/  
 * https://github.com/thaletterb/STM32-SSD1306-128x64-I2C  
+* http://www.rtos.be/2013/12/stm32-bootloader/  
+* Things to remember when developing a program for STM32 using STM32-Library  
+http://www.emcu.it/STM32/STM32VLDiscovery_Test/Things%20to%20remember%20when%20developing%20a%20program%20for%20STM32%20using%20STM32-Library.html  
+* https://rtime.felk.cvut.cz/hw/index.php/STM32_VLDISCOVERY  
 
 ## USART  
 MCBSTM32  
