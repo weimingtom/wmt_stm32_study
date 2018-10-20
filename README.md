@@ -65,3 +65,9 @@ https://github.com/wangbuu/ARMproject
 
 ## etc  
 https://github.com/dh-linghaibin  
+
+## STduino  
+http://www.makerlab.me/guides/2  
+
+## InfoNes  
+http://www.stmcu.org.cn/module/forum/thread-588403-1-1.html  
