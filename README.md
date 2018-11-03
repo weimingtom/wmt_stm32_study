@@ -71,3 +71,10 @@ http://www.makerlab.me/guides/2
 
 ## InfoNes  
 http://www.stmcu.org.cn/module/forum/thread-588403-1-1.html  
+
+## stm32duino  
+https://github.com/leaflabs/libmaple  
+https://github.com/rogerclarkmelbourne/Arduino_STM32  
+https://www.leaflabs.com/maple  
+https://www.cnblogs.com/51mcu/p/7040861.html  
+
