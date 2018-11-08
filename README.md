@@ -78,3 +78,11 @@ https://github.com/rogerclarkmelbourne/Arduino_STM32
 https://www.leaflabs.com/maple  
 https://www.cnblogs.com/51mcu/p/7040861.html  
 
+## stm32f1  
+F103ZET6(数量27): 50元左右, 512k/64k, 114针, 72MHz  
+F103RCT6(数量10): 30元左右, 256k/48k, 51针, 72MHz  
+F103C8T6(数量11): 10元左右, 64k/20k, 37针, 72MHz  
+F103VET6(数量7):  50元左右, 512k/64k, 82针, 72MHz  
+F103RBT6(数量2):  30元左右, 128k/20k, 51针, 72MHz  
+F107VCT6(数量1):  50元左右, 256k/64k, 82针, 72MHz  
+F105RBT6(数量1):  50元左右, 128k/64k, 51针, 72MHz  
