@@ -86,3 +86,7 @@ F103VET6(数量7):  50元左右, 512k/64k, 82针, 72MHz
 F103RBT6(数量2):  30元左右, 128k/20k, 51针, 72MHz  
 F107VCT6(数量1):  50元左右, 256k/64k, 82针, 72MHz  
 F105RBT6(数量1):  50元左右, 128k/64k, 51针, 72MHz  
+
+## Android-nRF-Toolbox  
+https://github.com/NordicSemiconductor/Android-nRF-Toolbox  
+
