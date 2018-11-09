@@ -90,3 +90,7 @@ F105RBT6(数量1):  50元左右, 128k/64k, 51针, 72MHz
 ## Android-nRF-Toolbox  
 https://github.com/NordicSemiconductor/Android-nRF-Toolbox  
 
+## Download  
+https://blog.csdn.net/a18713502557/article/details/79296251  
+https://blog.csdn.net/linuxweiyh/article/details/79061894  
+
