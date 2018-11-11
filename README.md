@@ -94,3 +94,7 @@ https://github.com/NordicSemiconductor/Android-nRF-Toolbox
 https://blog.csdn.net/a18713502557/article/details/79296251  
 https://blog.csdn.net/linuxweiyh/article/details/79061894  
 
+## GUI / OS Tutorials  
+http://www.waveshare.net/study/portal.php?mod=list&catid=38  
+http://www.waveshare.net/study/article-663-1.html  
+http://www.waveshare.net/wiki/Open32F0-D  
