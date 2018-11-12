@@ -98,3 +98,6 @@ https://blog.csdn.net/linuxweiyh/article/details/79061894
 http://www.waveshare.net/study/portal.php?mod=list&catid=38  
 http://www.waveshare.net/study/article-663-1.html  
 http://www.waveshare.net/wiki/Open32F0-D  
+
+## stm32f429  
+https://github.com/MaJerle/stm32f429  
