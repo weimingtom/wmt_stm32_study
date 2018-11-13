@@ -101,3 +101,8 @@ http://www.waveshare.net/wiki/Open32F0-D
 
 ## stm32f429  
 https://github.com/MaJerle/stm32f429  
+
+## HAL  
+https://github.com/4ilo/ssd1306-stm32HAL  
+https://github.com/afiskon/stm32-ssd1306  
+
