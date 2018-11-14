@@ -106,3 +106,6 @@ https://github.com/MaJerle/stm32f429
 https://github.com/4ilo/ssd1306-stm32HAL  
 https://github.com/afiskon/stm32-ssd1306  
 
+## Voice recognition on STM32F4-Discovery  
+http://geek-mag.com/posts/257382/  
+
