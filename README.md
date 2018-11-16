@@ -109,3 +109,7 @@ https://github.com/afiskon/stm32-ssd1306
 ## Voice recognition on STM32F4-Discovery  
 http://geek-mag.com/posts/257382/  
 
+## Atomthreads: Open Source RTOS  
+https://github.com/kelvinlawson/atomthreads  
+http://atomthreads.com  
+
