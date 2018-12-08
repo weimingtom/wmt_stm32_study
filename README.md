@@ -1,4 +1,9 @@
-# wmt_stm32_study
+# wmt_stm32_study  
+
+## Board  
+* 创乐博ZYSTM32, STM32F103RC     
+* 零知开发板, STM32F103RBT6  
+* 耀辉工作室, STM32F105RC / STM32F405 / STM32F305  
 
 ## official  
 * https://www.st.com/en/evaluation-tools/stm32vldiscovery.html  
