@@ -1,9 +1,15 @@
 # wmt_stm32_study  
 
-## Arduino-like Boards  
+## Arduino-like Boards / Arduino 32-bit    
 * 创乐博ZYSTM32, STM32F103RC     
 * 零知开发板, STM32F103RBT6  
+http://www.lingzhilab.com  
+https://linzhilab.taobao.com  
 * 耀辉工作室, STM32F105RC / STM32F405 / STM32F305  
+* Arduino M0  
+https://store.arduino.cc/usa/arduino-m0  
+* Arduino Due  
+https://store.arduino.cc/usa/arduino/arduino-due  
 
 ## official  
 * https://www.st.com/en/evaluation-tools/stm32vldiscovery.html  
