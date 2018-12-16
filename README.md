@@ -16,10 +16,11 @@ https://store.arduino.cc/usa/arduino/arduino-due
 https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-eval-tools/stm32-mcu-eval-tools/stm32-mcu-nucleo/nucleo-f103rb.html  
 
 ## Arduino-like libraries   
-* STM32F0DISCOVERY  
-https://www.st.com/en/evaluation-tools/stm32f0discovery.html  
-STSW-STM32050  
+* STSW-STM32050  
 http://www.stmcu.org.cn/document/detail/index/id-217275  
+STM32F0DISCOVERY  
+https://www.st.com/en/evaluation-tools/stm32f0discovery.html  
+(baidupan) en.stsw-stm32050.zip  
 
 ## official  
 * https://www.st.com/en/evaluation-tools/stm32vldiscovery.html  
