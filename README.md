@@ -159,3 +159,6 @@ https://github.com/libopencm3/libopencm3-examples
 ## screen display  
 fsmc  
 zero dma (for sam d, samd, arduino zero)    
+
+## alios things  
+https://github.com/alibaba/AliOS-Things/wiki/AliOS-Things-Starter-Kit-Hardware-Guide  
