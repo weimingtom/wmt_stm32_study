@@ -100,6 +100,7 @@ http://www.makerlab.me/guides/2
 http://www.stmcu.org.cn/module/forum/thread-588403-1-1.html  
 https://github.com/Woody00h/InfoNES  
 nes模拟器emu  
+(baidupan) InfoNES097JRC1_SDL.tar.gz  
 
 ## stm32duino  
 https://github.com/leaflabs/libmaple  
