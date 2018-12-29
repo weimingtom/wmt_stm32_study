@@ -17,6 +17,7 @@ https://store.arduino.cc/usa/arduino/arduino-due
 * NUCLEO-F103RB  
 https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-eval-tools/stm32-mcu-eval-tools/stm32-mcu-nucleo/nucleo-f103rb.html  
 * Fireduino  
+http://www.t-firefly.com/doc/download/page/id/7.html  
 https://github.com/FireflyTeam/Fireduino-SDK  
 
 ## Arduino-like libraries   
