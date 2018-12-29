@@ -99,6 +99,7 @@ http://www.makerlab.me/guides/2
 ## InfoNes  
 http://www.stmcu.org.cn/module/forum/thread-588403-1-1.html  
 https://github.com/Woody00h/InfoNES  
+nes模拟器emu  
 
 ## stm32duino  
 https://github.com/leaflabs/libmaple  
