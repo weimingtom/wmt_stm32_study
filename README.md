@@ -165,3 +165,6 @@ zero dma (for sam d, samd, arduino zero)
 
 ## alios things  
 https://github.com/alibaba/AliOS-Things/wiki/AliOS-Things-Starter-Kit-Hardware-Guide  
+
+## InfoNes  
+https://www.cnblogs.com/ningci/p/5620257.html  
