@@ -169,5 +169,8 @@ https://github.com/alibaba/AliOS-Things/wiki/AliOS-Things-Starter-Kit-Hardware-G
 ## InfoNes  
 https://www.cnblogs.com/ningci/p/5620257.html  
 
-## Extend ram  
+## Extend storage      
 AT24C256  
+http://www.mtd-ic.com/p/4  
+winbond, 华邦  
+
