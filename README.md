@@ -171,9 +171,11 @@ https://www.cnblogs.com/ningci/p/5620257.html
 
 ## Extend storage      
 * AT24C256  
+256KB  
 AT24C256 存储 I2C接口 EEPROM 存储模块 【送杜邦线】, telesky旗舰店  
 
 * http://www.mtd-ic.com/p/4  
 
 * winbond, 华邦  
+16MB  
 W25Q128 128Mbit 16MByte 大容量FLASH储存模块 SPI接口 储存, telesky旗舰店  
