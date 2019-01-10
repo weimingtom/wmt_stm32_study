@@ -23,9 +23,10 @@ https://github.com/FireflyTeam/Fireduino-SDK
 * linkit7697  
 https://docs.labs.mediatek.com/resource/linkit7697-arduino/en  
 * microduino
-Core (ATmega328P, ATmega168PA)  
-CoreRF (ATmega128RFA1)   
+Microduino-Core (ATmega328P, ATmega168PA)  
+Microduino-CoreRF (ATmega128RFA1)   
 https://wiki.microduino.cn  
+https://microduino.taobao.com  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
