@@ -1,6 +1,6 @@
 # wmt_stm32_study  
 
-## Arduino-like Boards / Arduino 32-bit / non arm      
+## Arduino-like Boards / Arduino 32-bit / 8-bit      
 * 创乐博ZYSTM32, STM32F103RC     
 https://chuanglebo.tmall.com  
 * 零知开发板, STM32F103RBT6  
@@ -22,7 +22,9 @@ http://www.t-firefly.com/doc/download/page/id/7.html
 https://github.com/FireflyTeam/Fireduino-SDK  
 * linkit7697  
 https://docs.labs.mediatek.com/resource/linkit7697-arduino/en  
-* microduino  
+* microduino
+Core (ATmega328P, ATmega168PA)  
+CoreRF (ATmega128RFA1)   
 https://wiki.microduino.cn  
 
 ## Arduino-like libraries   
