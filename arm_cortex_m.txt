@@ -1,0 +1,50 @@
+from https://en.wikipedia.org/wiki/ARM_Cortex-M#Cortex-M4
+
+M4
+
+Chips
+The following microcontrollers are based on the Cortex-M4 core:
+
+Analog Devices CM400 Mixed-Signal Control Processors
+Microchip (Atmel) SAM 4L, 4N, 4S
+NXP (Freescale) Kinetis K, W2
+Texas Instruments SimpleLink Wi-Fi CC32xx and CC32xxMOD (FCC, IC, CE pre-certified module)
+The following microcontrollers are based on the Cortex-M4F (M4 + FPU) core:
+
+Cypress PSoC 6200 (one Cortex-M4F + one Cortex-M0+), FM4
+Infineon XMC4000
+Microchip (Atmel) SAM 4C (one Cortex-M4F + one Cortex-M4), 4E, D5, E5, G5
+Microchip CEC1302
+Nordic nRF52
+nuvoTon NuMicro M4 Family
+NXP LPC4000, LPC4300 (one Cortex-M4F + one Cortex-M0)
+NXP (Freescale) Kinetis K, V3, V4
+Renesas Synergy S3, S5, S7
+Silicon Labs (Energy Micro) EFM32 Wonder
+ST STM32 F3, F4, L4, L4+, WB (one Cortex-M4F + one Cortex-M0+)
+Texas Instruments LM4F, TM4C, MSP432, CC13x2R, CC1352P, CC26x2R
+Toshiba TX04
+The following chips have either a Cortex-M4 or M4F as a secondary core:
+
+NXP (Freescale) Vybrid VF6 (one Cortex-A5 + one Cortex-M4F)
+NXP (Freescale) i.MX 6 SoloX (one Cortex-A9 + one Cortex-M4F)
+NXP (Freescale) i.MX 7 Solo/Dual (one or two Cortex-A7 + one Cortex-M4F)
+Texas Instruments OMAP 5 (two Cortex-A15s + two Cortex-M4)
+Texas Instruments Sitara AM5700 (one or two Cortex-A15s + two Cortex-M4s as image processing units + two Cortex-M4s as general purpose units)
+
+
+------------------------
+
+Cortex-M7
+
+Chips
+The following microcontrollers are based on the Cortex-M7 core:
+
+Microchip (Atmel) SAM E7, S7, V7
+NXP (Freescale) Kinetis KV5x,[22] i.MX RT[23]
+ST STM32 F7, H7
+
+
+
+
+
