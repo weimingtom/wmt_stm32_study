@@ -20,6 +20,8 @@ https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluatio
 * Fireduino  
 http://www.t-firefly.com/doc/download/page/id/7.html  
 https://github.com/FireflyTeam/Fireduino-SDK  
+* linkit7697  
+https://docs.labs.mediatek.com/resource/linkit7697-arduino/en  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
