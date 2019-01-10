@@ -22,7 +22,7 @@ http://www.t-firefly.com/doc/download/page/id/7.html
 https://github.com/FireflyTeam/Fireduino-SDK  
 * linkit7697  
 https://docs.labs.mediatek.com/resource/linkit7697-arduino/en  
-* microduino
+* microduino  
 Microduino-Core (ATmega328P, ATmega168PA)  
 Microduino-CoreRF (ATmega128RFA1)   
 https://wiki.microduino.cn  
