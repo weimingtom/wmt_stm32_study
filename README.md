@@ -193,3 +193,8 @@ https://github.com/derekevans/W25Q16
 (baidupan) infones_stm32f429ig_v1_success.rar  
 (baidupan) infones_stm32f407ve_v15_first_success.rar  
 
+## nofrendo stm32f4  
+(baidupan) nofrendo-2.0pre1.zip  
+(baidupan, linux) nofrendo_linux_v1.tar.gz  
+(baidupan, ubuntu) nofrendo_linux_v2_ubuntu.tar.gz  
+(baidupan, win32) nofrendo_vc6_v9_min.rar  
