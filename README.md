@@ -203,4 +203,5 @@ https://github.com/derekevans/W25Q16
 https://github.com/wuxx/nanoDAP  
 https://github.com/ARMmbed/DAPLink  
 https://github.com/ntfreak/openocd  
+http://www.eemaker.com/qianrushi/daplink  
 
