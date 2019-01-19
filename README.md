@@ -198,3 +198,9 @@ https://github.com/derekevans/W25Q16
 (baidupan, linux) nofrendo_linux_v1.tar.gz  
 (baidupan, ubuntu) nofrendo_linux_v2_ubuntu.tar.gz  
 (baidupan, win32) nofrendo_vc6_v9_min.rar  
+
+## nanoDAP, daplink    
+https://github.com/wuxx/nanoDAP  
+https://github.com/ARMmbed/DAPLink  
+https://github.com/ntfreak/openocd  
+
