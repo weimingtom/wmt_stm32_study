@@ -188,10 +188,12 @@ AT24C256 存储 I2C接口 EEPROM 存储模块 【送杜邦线】, telesky旗舰�
 W25Q128 128Mbit 16MByte 大容量FLASH储存模块 SPI接口 储存, telesky旗舰店  
 https://github.com/derekevans/W25Q16  
 
-## infones stm32f4  
+## infones stm32f4 / esp32  
 (baidupan) infones_stm32f407ve_v1.rar    
 (baidupan) infones_stm32f429ig_v1_success.rar  
 (baidupan) infones_stm32f407ve_v15_first_success.rar  
+(baidupan) infones_esp32_v1.rar  
+(baidupan) infones_esp32_v4_hard_spi_64MHz.rar  
 
 ## nofrendo stm32f4  
 (baidupan) nofrendo-2.0pre1.zip  
