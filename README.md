@@ -31,6 +31,7 @@ https://microduino.taobao.com
 http://www.micropython.org  
 * pyb nano  
 STM32F401, STM32F411, 128KB  
+https://github.com/micropython-Chinese-Community/MicroPython_firmware/tree/master/PYBNanoV11  
 * nRF52840  
 http://www.waveshare.net/wiki/Core52840  
 
