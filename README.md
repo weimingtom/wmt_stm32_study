@@ -207,3 +207,6 @@ https://github.com/ARMmbed/DAPLink
 https://github.com/ntfreak/openocd  
 http://www.eemaker.com/qianrushi/daplink  
 
+## micropython中文社区   
+http://www.micropython.org.cn/bbs/   
+
