@@ -217,3 +217,7 @@ http://www.eemaker.com/qianrushi/daplink
 ## micropython中文社区   
 http://www.micropython.org.cn/bbs/   
 
+## MicroPython 和 pyboard 中文文档  
+https://docs.singtown.com/micropython/zh/latest/pyboard/index.html  
+
+
