@@ -31,6 +31,8 @@ https://microduino.taobao.com
 http://www.micropython.org  
 * pyb nano  
 STM32F401, STM32F411, 128KB  
+* nRF52840  
+http://www.waveshare.net/wiki/Core52840  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
