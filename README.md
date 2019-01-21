@@ -29,6 +29,8 @@ https://wiki.microduino.cn
 https://microduino.taobao.com  
 * pyboard  
 http://www.micropython.org  
+墨星PyBoard V1.1, STM32F405, 192KB       
+https://docs.singtown.com/micropython/zh/latest/pyboard/index.html  
 * pyb nano  
 STM32F401, STM32F411, 128KB  
 https://github.com/micropython-Chinese-Community/MicroPython_firmware/tree/master/PYBNanoV11  
