@@ -27,6 +27,10 @@ Microduino-Core (ATmega328P, ATmega168PA)
 Microduino-CoreRF (ATmega128RFA1)   
 https://wiki.microduino.cn  
 https://microduino.taobao.com  
+* pyboard  
+http://www.micropython.org  
+* pyb nano  
+STM32F401, STM32F411, 128KB  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
