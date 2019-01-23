@@ -27,6 +27,17 @@ Microduino-Core (ATmega328P, ATmega168PA)
 Microduino-CoreRF (ATmega128RFA1)   
 https://wiki.microduino.cn  
 https://microduino.taobao.com  
+* pyboard  
+http://www.micropython.org  
+墨星PyBoard V1.1, STM32F405, 192KB       
+https://docs.singtown.com/micropython/zh/latest/pyboard/index.html  
+* pyb nano  
+STM32F401, STM32F411, 128KB  
+https://github.com/micropython-Chinese-Community/MicroPython_firmware/tree/master/PYBNanoV11  
+* nRF52840  
+http://www.waveshare.net/wiki/Core52840  
+* nRF52832/nRF52810, 64K /24k, 讯联电子      
+* NRF52840 开发板, 256KB, 讯联电子  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
@@ -207,10 +218,10 @@ https://github.com/ARMmbed/DAPLink
 https://github.com/ntfreak/openocd  
 http://www.eemaker.com/qianrushi/daplink  
 
-## 96boards  
-https://www.96boards.org/products/  
+## micropython中文社区   
+http://www.micropython.org.cn/bbs/   
 
-## mediatek  
-http://atticedu.com/index.php/blog/linkit7697/16-linkit7697-rc-vehicle.html  
-https://labs.mediatek.com/zh-cn/platform/mediatek-x20  
-https://www.alpha-star.org/buy-now  
+## MicroPython 和 pyboard 中文文档  
+https://docs.singtown.com/micropython/zh/latest/pyboard/index.html  
+
+
