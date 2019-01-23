@@ -207,3 +207,10 @@ https://github.com/ARMmbed/DAPLink
 https://github.com/ntfreak/openocd  
 http://www.eemaker.com/qianrushi/daplink  
 
+## 96boards  
+https://www.96boards.org/products/  
+
+## mediatek  
+http://atticedu.com/index.php/blog/linkit7697/16-linkit7697-rc-vehicle.html  
+https://labs.mediatek.com/zh-cn/platform/mediatek-x20  
+https://www.alpha-star.org/buy-now  
