@@ -224,4 +224,10 @@ http://www.micropython.org.cn/bbs/
 ## MicroPython 和 pyboard 中文文档  
 https://docs.singtown.com/micropython/zh/latest/pyboard/index.html  
 
+## 96boards  
+https://www.96boards.org/products/  
 
+## mediatek  
+http://atticedu.com/index.php/blog/linkit7697/16-linkit7697-rc-vehicle.html  
+https://labs.mediatek.com/zh-cn/platform/mediatek-x20  
+https://www.alpha-star.org/buy-now   
