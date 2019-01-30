@@ -38,6 +38,10 @@ https://github.com/micropython-Chinese-Community/MicroPython_firmware/tree/maste
 http://www.waveshare.net/wiki/Core52840  
 * nRF52832/nRF52810, 64K /24k, 讯联电子      
 * NRF52840 开发板, 256KB, 讯联电子  
+* nRF52832-MDK V2  
+https://store.makerdiary.com    
+http://wiki.makerdiary.com/nrf52832-mdk/cn/getting-started/   
+https://github.com/makerdiary/nrf52832-mdk  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
