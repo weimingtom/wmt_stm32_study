@@ -231,3 +231,9 @@ https://www.96boards.org/products/
 http://atticedu.com/index.php/blog/linkit7697/16-linkit7697-rc-vehicle.html  
 https://labs.mediatek.com/zh-cn/platform/mediatek-x20  
 https://www.alpha-star.org/buy-now   
+
+## nRF52832-MDK V2：物联网开发套件   
+https://github.com/makerdiary/nrf52832-mdk  
+http://wiki.makerdiary.com/nrf52832-mdk/cn/getting-started/   
+https://store.makerdiary.com  
+https://store.makerdiary.com/blogs/tutorials/how-to-use-nrf5-sdk-with-arm-gcc  
