@@ -242,3 +242,6 @@ https://github.com/makerdiary/nrf52832-mdk
 http://wiki.makerdiary.com/nrf52832-mdk/cn/getting-started/   
 https://store.makerdiary.com  
 https://store.makerdiary.com/blogs/tutorials/how-to-use-nrf5-sdk-with-arm-gcc  
+
+## GuiLite  
+https://github.com/idea4good/GuiLite  
