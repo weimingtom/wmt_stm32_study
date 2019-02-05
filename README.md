@@ -43,6 +43,10 @@ https://zaowubang.taobao.com/
 https://store.makerdiary.com    
 http://wiki.makerdiary.com/nrf52832-mdk/cn/getting-started/   
 https://github.com/makerdiary/nrf52832-mdk  
+* Onion Omega2 plus, 极客 Geeker    
+https://docs.onion.io/omega2-docs/first-time-setup.html  
+https://onion.io/getstarted/  
+https://geeker.taobao.com  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
