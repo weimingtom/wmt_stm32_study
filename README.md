@@ -22,6 +22,7 @@ http://www.t-firefly.com/doc/download/page/id/7.html
 https://github.com/FireflyTeam/Fireduino-SDK  
 * linkit7697  
 https://docs.labs.mediatek.com/resource/linkit7697-arduino/en  
+https://github.com/onionys/to-lab-mt7697-rtos  
 * microduino  
 Microduino-Core (ATmega328P, ATmega168PA)  
 Microduino-CoreRF (ATmega128RFA1)   
