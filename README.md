@@ -48,6 +48,10 @@ https://github.com/makerdiary/nrf52832-mdk
 https://docs.onion.io/omega2-docs/first-time-setup.html  
 https://onion.io/getstarted/  
 https://geeker.taobao.com  
+* NuMaker Tomato  
+https://nuvoton.tmall.com
+* NUC972  
+https://blog.csdn.net/b7376811/article/details/87805201  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
