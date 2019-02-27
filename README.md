@@ -257,3 +257,8 @@ https://store.makerdiary.com/blogs/tutorials/how-to-use-nrf5-sdk-with-arm-gcc
 
 ## GuiLite  
 https://github.com/idea4good/GuiLite  
+
+## pyocd  
+* https://github.com/mbedmicro/pyOCD  
+* https://os.mbed.com/users/maclobdell/notebook/debugging-with-pyocd/  
+
