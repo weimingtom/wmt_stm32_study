@@ -262,3 +262,5 @@ https://github.com/idea4good/GuiLite
 * https://github.com/mbedmicro/pyOCD  
 * https://os.mbed.com/users/maclobdell/notebook/debugging-with-pyocd/  
 
+## 喵比特, STM32F401RET6, 160x128 tft  
+* https://kittenbot.github.io/meowbit-tutorials  
