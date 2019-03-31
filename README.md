@@ -265,4 +265,7 @@ https://github.com/idea4good/GuiLite
 ## 喵比特, STM32F401RET6, 160x128 tft  
 * https://kittenbot.github.io/meowbit-tutorials  
 * http://meowbit.kittenbot.cn  
+* http://meowbit-doc.kittenbot.cn/  
+
+
 
