@@ -270,5 +270,7 @@ https://github.com/idea4good/GuiLite
 ## picoc  
 * https://github.com/jpoirier/picoc  
 
+## uf2-stm32f  
+* https://github.com/mmoskal/uf2-stm32f  
 
 
