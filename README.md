@@ -273,4 +273,8 @@ https://github.com/idea4good/GuiLite
 ## uf2-stm32f  
 * https://github.com/mmoskal/uf2-stm32f  
 
+## rt-thread / rt-gui  
+https://www.rt-thread.org  
+https://github.com/RT-Thread/rt-thread  
+https://github.com/rqbh/RTGUI  
 
