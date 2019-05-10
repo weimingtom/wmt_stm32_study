@@ -57,6 +57,11 @@ https://open.iot.10086.cn/v4/productservice/onenetdevboard/
 * Arch Mix  
 http://dy.163.com/v2/article/detail/EA3E5ME80524PLTC.html  
 http://wiki.seeedstudio.com/cn/Arch_Mix/  
+* 荔枝派nano, F1C100s, Sipeed, 深圳矽速科技        
+https://shop365481095.taobao.com/  
+http://dl.sipeed.com/LICHEE/Nano/   
+http://linux-sunxi.org/Allwinner_SoC_Family  
+search arm9, suniv  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
