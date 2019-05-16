@@ -62,6 +62,8 @@ https://shop365481095.taobao.com/
 http://dl.sipeed.com/LICHEE/Nano/   
 http://linux-sunxi.org/Allwinner_SoC_Family  
 search arm9, suniv  
+* MaixDuino, k210    
+https://maixduino.sipeed.com/en/get_started/install.html  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
