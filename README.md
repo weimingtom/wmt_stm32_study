@@ -65,6 +65,9 @@ search arm9, suniv
 * Sipeed Maix bit, MaixDuino, k210    
 https://maixduino.sipeed.com/en/get_started/install.html  
 https://shop365481095.taobao.com/  
+https://maixduino.sipeed.com/en/hardware/m1.html  
+http://dl.sipeed.com/Accessories/LCD/  
+http://dl.sipeed.com/MAIX/HDK/Maix-Bit_1.09/  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
