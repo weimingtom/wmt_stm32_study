@@ -68,6 +68,8 @@ https://shop365481095.taobao.com/
 https://maixduino.sipeed.com/en/hardware/m1.html  
 http://dl.sipeed.com/Accessories/LCD/  
 http://dl.sipeed.com/MAIX/HDK/Maix-Bit_1.09/  
+* w600, TB 01 W600开发板, 深圳市星通智联    
+http://w600.fun/development/arduino/start/  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
