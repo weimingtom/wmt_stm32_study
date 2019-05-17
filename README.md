@@ -71,8 +71,8 @@ https://maixduino.sipeed.com/en/hardware/m1.html
 http://dl.sipeed.com/Accessories/LCD/  
 http://dl.sipeed.com/MAIX/HDK/Maix-Bit_1.09/  
 * w600, TB 01 W600开发板, 深圳市星通智联   
-内置 288KB SRAM，用户可用RAM超过160KB  
-内置 1MB Flash，用户固件大小可达450KB  
+内置 288KB SRAM，用户可用RAM超过160KB (实际编译器限制全局变量最大为132KB）  
+内置 1MB Flash，用户固件大小可达450KB   
 http://w600.fun/development/arduino/start/  
 http://w600.fun/download/tools/  
 http://wiki.openluat.com  
