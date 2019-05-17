@@ -84,6 +84,7 @@ https://forum.mianbaoban.cn/topic/70846_1_1.html
 Starter Kit (STM32L433, 256KB Flash, 64KB SRAM)    
 Developer Kit (STM32L496VGTx, 1MB Flash, 320KB SRAM)  
 https://github.com/alibaba/AliOS-Things/wiki/AliOS-Things-Starter-Kit-Quick-Start-Guide  
+http://www.notioni.com/#/source  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
