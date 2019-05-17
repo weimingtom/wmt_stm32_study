@@ -70,6 +70,7 @@ http://dl.sipeed.com/Accessories/LCD/
 http://dl.sipeed.com/MAIX/HDK/Maix-Bit_1.09/  
 * w600, TB 01 W600开发板, 深圳市星通智联    
 http://w600.fun/development/arduino/start/  
+http://w600.fun/download/tools/  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
