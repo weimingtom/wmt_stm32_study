@@ -76,6 +76,14 @@ http://dl.sipeed.com/MAIX/HDK/Maix-Bit_1.09/
 http://w600.fun/development/arduino/start/  
 http://w600.fun/download/tools/  
 http://wiki.openluat.com  
+* 正点原子潘多拉IoT Board, STM32L476, 128KB SRAM, 512KB Flash    
+http://www.openedv.com/thread-284556-1-1.html   
+* uFun开发板, STM32F103RCT6, 面包板社区    
+https://forum.mianbaoban.cn/topic/70846_1_1.html  
+* Alios Things  
+Starter Kit (STM32L433, 256KB Flash, 64KB SRAM)    
+Developer Kit (STM32L496VGTx, 1MB Flash, 320KB SRAM)  
+https://github.com/alibaba/AliOS-Things/wiki/AliOS-Things-Starter-Kit-Quick-Start-Guide  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
