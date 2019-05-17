@@ -63,12 +63,16 @@ http://dl.sipeed.com/LICHEE/Nano/
 http://linux-sunxi.org/Allwinner_SoC_Family  
 search arm9, suniv  
 * Sipeed Maix bit, MaixDuino, k210    
+SRAM 包含两个部分，分别是 6MiB 的片上通用 SRAM 存储器与 2MiB 的片上 AI SRAM 存储器，共计8MiB（1MiB 为 1 兆字节）  
+https://kendryte.com/downloads/  
 https://maixduino.sipeed.com/en/get_started/install.html  
 https://shop365481095.taobao.com/  
 https://maixduino.sipeed.com/en/hardware/m1.html  
 http://dl.sipeed.com/Accessories/LCD/  
 http://dl.sipeed.com/MAIX/HDK/Maix-Bit_1.09/  
-* w600, TB 01 W600开发板, 深圳市星通智联    
+* w600, TB 01 W600开发板, 深圳市星通智联   
+内置 288KB SRAM，用户可用RAM超过160KB  
+内置 1MB Flash，用户固件大小可达450KB  
 http://w600.fun/development/arduino/start/  
 http://w600.fun/download/tools/  
 http://wiki.openluat.com  
