@@ -315,3 +315,10 @@ https://github.com/rqbh/RTGUI
 
 ## 单片机DIY工作室，裸板底板    
 https://shop103499658.taobao.com
+
+## 正点原子阿波罗STM32F429开发板资料  
+http://www.openedv.com/thread-13912-1-1.html  
+
+## STM32+4.3寸屏，采用什么驱动方式好呢？  
+https://www.amobbs.com/thread-5575225-1-1.html  
+
