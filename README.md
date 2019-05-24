@@ -89,6 +89,8 @@ https://github.com/alibaba/AliOS-Things/wiki/AliOS-Things-Starter-Kit-Quick-Star
 http://www.notioni.com/#/source  
 * ESP8285, NodeMCU-M  
 like ESP8266, but with 1MB Flash  
+* 海豚派, v3s    
+* 芒果派, v3s    
 
 ## Arduino-like libraries   
 * STSW-STM32050  
