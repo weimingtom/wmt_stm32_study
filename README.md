@@ -1,6 +1,6 @@
 # wmt_stm32_study  
 
-## Arduino-like Boards / Arduino 32-bit / Other AVR      
+## Arduino-like Boards / Arduino 32-bit / Other AVR / Linux Board        
 * 创乐博ZYSTM32, STM32F103RC     
 https://chuanglebo.tmall.com  
 * 零知开发板, STM32F103RBT6  
