@@ -324,3 +324,5 @@ http://www.openedv.com/thread-13912-1-1.html
 ## STM32+4.3寸屏，采用什么驱动方式好呢？  
 https://www.amobbs.com/thread-5575225-1-1.html  
 
+## InfoNes, k210  
+https://github.com/sipeed/MaixPy/tree/master/ports/k210-freertos/mpy_support/nes  
