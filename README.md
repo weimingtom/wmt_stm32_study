@@ -54,7 +54,7 @@ https://nuvoton.tmall.com
 https://blog.csdn.net/b7376811/article/details/87805201  
 * onenet  
 https://open.iot.10086.cn/v4/productservice/onenetdevboard/  
-* Arch Mix  
+* Arch Mix, rt1050    
 http://dy.163.com/v2/article/detail/EA3E5ME80524PLTC.html  
 http://wiki.seeedstudio.com/cn/Arch_Mix/  
 * 荔枝派nano, F1C100s, Sipeed, 深圳矽速科技        
