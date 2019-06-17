@@ -98,6 +98,7 @@ http://vcc-gnd.com/rtd/html/pyboard/quickref.html
 * nrf52832 breakout, 讯联电子  
 * nrf52840 usb dongle，造物小店  
 * nrf52840 dongle, pca10059, nordic  
+* ikbit  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
