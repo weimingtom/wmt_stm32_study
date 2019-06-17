@@ -101,6 +101,7 @@ http://vcc-gnd.com/rtd/html/pyboard/quickref.html
 https://www.nordicsemi.com/software-and-tools/development-kits/nrf52840-dongle  
 * ikbit  
 * larduino, LGT8F328D  
+* CKS32F103C8T6  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
