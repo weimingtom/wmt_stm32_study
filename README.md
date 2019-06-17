@@ -100,6 +100,7 @@ http://vcc-gnd.com/rtd/html/pyboard/quickref.html
 * nrf52840 dongle, pca10059, nordic  
 https://www.nordicsemi.com/software-and-tools/development-kits/nrf52840-dongle  
 * ikbit  
+* larduino, LGT8F328D  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
