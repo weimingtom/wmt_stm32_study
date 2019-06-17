@@ -35,6 +35,7 @@ https://docs.singtown.com/micropython/zh/latest/pyboard/index.html
 * pyb nano  
 STM32F401, STM32F411, 128KB  
 https://github.com/micropython-Chinese-Community/MicroPython_firmware/tree/master/PYBNanoV11  
+https://github.com/micropython-Chinese-Community/MicroPython_firmware  
 * nRF52840  
 http://www.waveshare.net/wiki/Core52840  
 * nRF52832/nRF52810, 64K /24k, 讯联电子      
@@ -91,6 +92,12 @@ http://www.notioni.com/#/source
 like ESP8266, but with 1MB Flash  
 * 海豚派, v3s    
 * 芒果派, v3s    
+* 源地工作室, stm32f411ce, pyb v1.1 mini    
+http://vcc-gnd.com/rtd/html/pyboard/quickref.html  
+* STM32F401开发板, 佳信微  
+* nrf52832 breakout, 讯联电子  
+* nrf52840 usb dongle，造物小店  
+* nrf52840 dongle, pca10059, nordic  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
