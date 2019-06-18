@@ -337,3 +337,6 @@ https://www.amobbs.com/thread-5575225-1-1.html
 
 ## InfoNes, k210  
 https://github.com/sipeed/MaixPy/tree/master/ports/k210-freertos/mpy_support/nes  
+
+## sx1276  
+lora  
