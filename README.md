@@ -110,6 +110,10 @@ STM32F0DISCOVERY
 https://www.st.com/en/evaluation-tools/stm32f0discovery.html  
 (baidupan) en.stsw-stm32050.zip  
 
+## zephyr supported boards list  
+* https://github.com/zephyrproject-rtos/zephyr/tree/master/boards  
+* https://docs.zephyrproject.org/latest/boards/index.html  
+
 ## official  
 * https://www.st.com/en/evaluation-tools/stm32vldiscovery.html  
 * https://www.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32-standard-peripheral-library-expansion/stsw-stm32078.html
