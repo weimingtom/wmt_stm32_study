@@ -102,6 +102,8 @@ https://www.nordicsemi.com/software-and-tools/development-kits/nrf52840-dongle
 * ikbit  
 * larduino, LGT8F328D  
 * CKS32F103C8T6  
+* stm32f411, 源地工作室  
+* stm32f401, mini f401核心板, 佳信微  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
@@ -344,3 +346,7 @@ https://github.com/sipeed/MaixPy/tree/master/ports/k210-freertos/mpy_support/nes
 
 ## sx1276  
 lora  
+
+## STM32开发笔记34：USB CDC驱动程序的详细移植过程  
+https://blog.csdn.net/qingwufeiyang12346/article/details/81042301  
+
