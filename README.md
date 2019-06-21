@@ -103,7 +103,8 @@ https://www.nordicsemi.com/software-and-tools/development-kits/nrf52840-dongle
 * larduino, LGT8F328D  
 * CKS32F103C8T6  
 * stm32f411, 源地工作室  
-* stm32f401, mini f401核心板, weact, 佳信微, (最新版boot0按钮版的资料请参考深圳育松电子）  
+* stm32f401, mini f401核心板, weact, 佳信微, 深圳育松  
+最新版boot0按钮版的资料请参考深圳育松电子  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
