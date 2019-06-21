@@ -351,3 +351,6 @@ lora
 ## STM32开发笔记34：USB CDC驱动程序的详细移植过程  
 https://blog.csdn.net/qingwufeiyang12346/article/details/81042301  
 
+## STM32使用SWD连接报错总结  
+https://blog.csdn.net/xuezhimeng2010/article/details/78771030  
+Connecting to CPU via connect under reset failed  
