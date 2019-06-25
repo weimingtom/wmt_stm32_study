@@ -354,3 +354,7 @@ https://blog.csdn.net/qingwufeiyang12346/article/details/81042301
 ## STM32使用SWD连接报错总结  
 https://blog.csdn.net/xuezhimeng2010/article/details/78771030  
 Connecting to CPU via connect under reset failed  
+
+## STM32学习笔记----FC游戏手柄  
+https://blog.csdn.net/Do_Not_Ask_Me/article/details/89460142  
+
