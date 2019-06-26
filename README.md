@@ -105,6 +105,8 @@ https://www.nordicsemi.com/software-and-tools/development-kits/nrf52840-dongle
 * stm32f411, 源地工作室  
 * stm32f401, mini f401核心板, weact, 佳信微, 深圳育松  
 最新版boot0按钮版的资料请参考深圳育松电子  
+* numaker uno, 新唐, nuvoton  
+https://www.nuvoton.com/hq/products/iot-solution/iot-platform/arduino-compatible-platform/numaker-uno?__locale=zh  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
