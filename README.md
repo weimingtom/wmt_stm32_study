@@ -369,3 +369,7 @@ https://github.com/sipeed/MaixPy/tree/master/ports/k210-freertos/mpy_support/nes
 
 ## nes 红白机模拟器 第3篇 游戏手柄测试 51 STM32  
 https://www.cnblogs.com/ningci/p/5631817.html  
+
+## Parallel to Serial Shifting-In with a CD4021BE  
+https://www.arduino.cc/en/Tutorial/ShiftIn  
+
