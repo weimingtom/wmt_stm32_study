@@ -373,3 +373,7 @@ https://www.cnblogs.com/ningci/p/5631817.html
 ## Parallel to Serial Shifting-In with a CD4021BE  
 https://www.arduino.cc/en/Tutorial/ShiftIn  
 
+## FC游戏机手柄工作原理 ？  
+https://www.zhihu.com/question/20651722  
+
+
