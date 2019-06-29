@@ -360,3 +360,9 @@ Connecting to CPU via connect under reset failed
 ## STM32学习笔记----FC游戏手柄  
 https://blog.csdn.net/Do_Not_Ask_Me/article/details/89460142  
 
+## STM32系列第28篇--游戏手柄  
+http://www.eeworld.com.cn/mcu/article_2017092234633.html  
+
+## MaixPy PS2手柄  
+https://maixpy.sipeed.com/zh/application/nes.html  
+https://github.com/sipeed/MaixPy/tree/master/ports/k210-freertos/mpy_support/nes  
