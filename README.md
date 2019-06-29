@@ -366,3 +366,6 @@ http://www.eeworld.com.cn/mcu/article_2017092234633.html
 ## MaixPy PS2手柄  
 https://maixpy.sipeed.com/zh/application/nes.html  
 https://github.com/sipeed/MaixPy/tree/master/ports/k210-freertos/mpy_support/nes  
+
+## nes 红白机模拟器 第3篇 游戏手柄测试 51 STM32  
+https://www.cnblogs.com/ningci/p/5631817.html  
