@@ -376,4 +376,5 @@ https://www.arduino.cc/en/Tutorial/ShiftIn
 ## FC游戏机手柄工作原理 ？  
 https://www.zhihu.com/question/20651722  
 
-
+## stm32 discovery line linux programmer   
+https://github.com/texane/stlink  
