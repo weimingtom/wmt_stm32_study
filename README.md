@@ -381,3 +381,7 @@ https://www.zhihu.com/question/20651722
 
 ## stm32 discovery line linux programmer   
 https://github.com/texane/stlink  
+
+## one os  
+https://gitee.com/EDI-Systems/M5P1_MuProkaron  
+
