@@ -385,3 +385,7 @@ https://github.com/texane/stlink
 ## one os  
 https://gitee.com/EDI-Systems/M5P1_MuProkaron  
 
+## RT Thread persimmon UI signal/slot实现的真差劲  
+https://blog.csdn.net/phena/article/details/88818639  
+https://github.com/RT-Thread-packages/persimmon  
+
