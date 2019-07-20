@@ -394,6 +394,7 @@ https://gitee.com/EDI-Systems/M5P1_MuProkaron
 https://blog.csdn.net/phena/article/details/88818639  
 https://github.com/RT-Thread-packages/persimmon  
 
-## STM32_duino  
+## STM32_duino, STM32GENERIC    
 https://github.com/tony-cloud/STM32_duino  
+https://github.com/danieleff/STM32GENERIC  
 
