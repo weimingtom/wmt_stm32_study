@@ -7,3 +7,5 @@
 
 L/H/E/En=FF,DE,FD,FF
 8.0MHz:85
+
+6pin-10pin转接板，VCC对应上方ICSP有字的那边
