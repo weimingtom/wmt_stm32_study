@@ -7,3 +7,6 @@
 (4) 原本我打算用atmel studio的例子，不过似乎更难魔改，所以最后用MDK5驱动成功 
 (5) 关于针脚跟PAx、PBx的对应关系，已经有人写出来的，参考这里：
 https://github.com/BLavery/SAMD21-M0-Mini
+
+
+j-link需要切换为SWD（MDK5会自动切换，j-flash需要手动选择）
