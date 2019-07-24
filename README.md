@@ -398,3 +398,5 @@ https://github.com/RT-Thread-packages/persimmon
 https://github.com/tony-cloud/STM32_duino  
 https://github.com/danieleff/STM32GENERIC  
 
+## stm32duino  
+https://github.com/stm32duino/BoardManagerFiles  
