@@ -12,7 +12,7 @@
 而uno板上的熔丝位正是用了外部晶振（大于8MHz）
 
 
-L/H/E/En=FF,DE,FD,FF
+Low/High/Extra/Encry=FF,DE,FD,FF
 8.0MHz:85
 
 6pin-10pin转接板，VCC对应上方ICSP有字的那边
