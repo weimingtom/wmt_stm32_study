@@ -1,0 +1,12 @@
+试验了两天，终于掌握了如何烧录Pro Micro（我是在信泰微买的）的方法。这个板其实不是Arduino官方出的（官方只有arduino micro）。
+这块板的Arduino IDE插件和烧录方法介绍在这里
+https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide
+其中有一行：because there’s no reset button. The ‘RST’ pins needs to be connected to ground to initiate a reset.
+意思大概是在烧录开始之前接好usb线，然后用杜邦线连接RST脚到GND脚，然后点击Arduino IDE的上传按钮开始烧录，
+在编译之后烧录过程中断开RST和GND的接线（我的做法是拔出杜邦线其中一端），原理是Arduino IDE插件会不断地读串口，
+如果发现串口数量突然增多，就会对多出来的串口端口进行通信，建立连接后进行烧录。另外要注意的问题是：
+(1) 信泰微的版本是5V版本，所以在Arduino IDE中也要选择5V版本
+(2) usb口可能会出现无法识别的情况，从而导致串口无法在设备管理器中显示，我怀疑是因为usb转串口会在短时间之后无效，
+但usb无法识别不影响上面的烧录方法，因为可能在某个瞬间串口通信是成功的，或者因为别的原因，上传烧录也可能会成功，
+即便设备管理器中看不到那个串口
+
