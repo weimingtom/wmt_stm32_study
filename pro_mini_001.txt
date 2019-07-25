@@ -1,0 +1,7 @@
+把pro mini焊好了，然后烧录blink程序。关于烧录方法，贴吧的做法是按RESET按钮，但我试过不行。
+我查过外国网站，经过试验发现可以用USB串口转换器上的RESET脚接上pro mini板上的DTR针脚（就在弯针的地方，有6个针，最上面那个针脚就是DTR），
+这样需要接5根杜邦线才能烧录成功。
+有些USB-TTL转换器没有RESET脚，可以尝试其他，例如我用的FT232，可以通过RTS针脚实现RESET复位功能。
+总之，如果USB-TTL只有4线，是无法烧录pro mini，必须用带RST针脚或者RTS针脚的转换器，而且要接5根线才能烧录成功
+
+http://lab.dejaworks.com/programming-arduino-mini-pro-with-ftdi-usb-to-ttl-serial-converter/
