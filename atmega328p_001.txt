@@ -11,12 +11,10 @@
 不过默认的熔丝位，使用的内部晶振频率很低，建议设置为外部晶振，
 而uno板上的熔丝位正是用了外部晶振（大于8MHz）
 
-
 Low/High/Extra/Encry=FF,DE,FD,FF
 8.0MHz:85
 
 6pin-10pin转接板，VCC对应上方ICSP有字的那边
-
 
 我已经成功把atmega328p的串口烧录（IAP）跑通了（通过拔掉芯片的山寨uno做串口烧录工具），
 结果我还是花钱买了一套散件自己用面包板搭建最小系统，
@@ -32,7 +30,6 @@ Low/High/Extra/Encry=FF,DE,FD,FF
 所以如果你想用Arduino IDE和拔掉328芯片的山寨uno板做IAP，那么必须使用16M的晶振，
 我怀疑跟波特率有关
 
-
 关于面包板搭建atmega328p最小系统，开始的时候我以为有两个问题会很难解决，其实都不是很困难：
 (1) 我以为面包板上面插晶振会有问题，其实问题并不大，甚至晶振两脚之间的电阻都可以省略 
 (2) 关于熔丝位，听起来好像很复杂，其实是4个特殊的字节，可以在progisp（控制usbasp）上修改，
@@ -41,8 +38,8 @@ Low/High/Extra/Encry=FF,DE,FD,FF
 用usbasp（PC上使用progisp.exe）把出厂固件和熔丝位这两个东西读出来，方便克隆到别的atmega328p上
 （因为空白的atmega328p是没有bootloader固件的），相当于系统还原
 
-我又试了一下，终于找到用普通的USB-TTL转换器烧录atmega328p的方法——之前不成功是因为我没有替换16M的晶振。
+我又试了一下，终于找到用普通的USB-TTL转换器烧录atmega328p的方法——
+之前不成功是因为我没有把8M换成16M的晶振。
 诀窍是用104电容接在atmega328p的reset脚上，
 然后接在USB-TTL转换器的RTS或DTR脚（有些转换器叫RESET脚），
 Arduino IDE选择Uno类型
-
