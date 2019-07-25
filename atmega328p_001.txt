@@ -40,3 +40,9 @@ Low/High/Extra/Encry=FF,DE,FD,FF
 简单来说可以参考官方的avrdude参数去设置，不过我觉得最省事的做法是买一个山寨uno，
 用usbasp（PC上使用progisp.exe）把出厂固件和熔丝位这两个东西读出来，方便克隆到别的atmega328p上
 （因为空白的atmega328p是没有bootloader固件的），相当于系统还原
+
+我又试了一下，终于找到用普通的USB-TTL转换器烧录atmega328p的方法——之前不成功是因为我没有替换16M的晶振。
+诀窍是用104电容接在atmega328p的reset脚上，
+然后接在USB-TTL转换器的RTS或DTR脚（有些转换器叫RESET脚），
+Arduino IDE选择Uno类型
+
