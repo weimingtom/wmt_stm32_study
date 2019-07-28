@@ -12,3 +12,6 @@ stm32duino是依赖stm32cubeprog的控制台做上传的。
 (3) 如图，安装完stm32duino后选择BlackPill F103C8，
 以及选择上传方式是SWD，
 然后点击编译上传即可看到闪烁灯的效果
+
+由于stm32cubeprog不支持st-link v1，所以STM32VLDISCOVERY其实是没办法用最新版的stm32duino做开发的（自带的st-link不是v2），
+不过可以自己魔改stm32duino，把上传方式改成用st-link工具中的命令行去烧录，以后再想这个问题
