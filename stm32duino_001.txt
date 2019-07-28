@@ -1,0 +1,14 @@
+成功跑通了arduino的stm32duino的插件，大概的步骤如下：
+(1) 系统用win7，至于xp没测试，可能可以用。安装jdk8的32位较新版本（至少要u10以上），
+我装的是jdk-8u131-windows-i586，然后安装stm32cubeprog。
+如果机器上已经安装了STM32 ST-LINK Utility，可以一起测试st-link v2是否可以连接上。
+对于我手头上的st-link v2，需要升级固件版本，尽管升级固件不用怕，反正不影响PC软件的使用，
+反正最后一定要确保stm32cubeprog的图形界面能连接上st-link v2。
+stm32duino是依赖stm32cubeprog的控制台做上传的。
+把安装目录添加到PATH环境变量
+(2) 硬件方面，准备st-link v2和stm32f103c8t6最小系统板，
+我用的是信泰微的st-link v2，以及信泰微的黑色版stm32f103c8t6（背后有果云的logo），
+用杜邦线连接SWD 4线接口
+(3) 如图，安装完stm32duino后选择BlackPill F103C8，
+以及选择上传方式是SWD，
+然后点击编译上传即可看到闪烁灯的效果
