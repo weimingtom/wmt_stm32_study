@@ -1,17 +1,23 @@
 http://en.radzio.dxp.pl/stm32vldiscovery/flashing,mcu,memory,using,st-link,command,line.html
 
 Flashing MCU with ST-Link command line utility
-However uVision IDE have build-in support for ST-Link and can flash MCU memory with ST-Link debugger there is no option "Reset and run". So after flashing MCU memory we must go to Debug mode and manually run appilcation. In some cases useful option is run application directly after flashing without any additional activities.
+However uVision IDE have build-in support for ST-Link and can flash MCU memory with ST-Link debugger there is no option 
+"Reset and run". So after flashing MCU memory we must go to Debug mode and manually run appilcation. 
+In some cases useful option is run application directly after flashing without any additional activities.
 
-We need to download STM32 ST-LINK utility which have GUI and command line tool for flashing MCU memory. After instaling utility You must set up Your uVision project to use external tool for flashing MCU. To do this, click RMB on "Target" folder on project tree and select "options for Target" command from context menu :
+We need to download STM32 ST-LINK utility which have GUI and command line tool for flashing MCU memory. 
+After instaling utility You must set up Your uVision project to use external tool for flashing MCU. To do this, 
+click RMB on "Target" folder on project tree and select "options for Target" command from context menu :
 
 uVision
 
-After this, go to "Utilities" menu, select "Use External Tool for Flash Programming", select location of ST-LINK_CLI.exe and type following arguments : '-c SWD -p "$H@H.hex" -Rst -Run', like on screen :
+After this, go to "Utilities" menu, select "Use External Tool for Flash Programming", select location of ST-LINK_CLI.exe and 
+type following arguments : '-c SWD -p "$H@H.hex" -Rst -Run', like on screen :
 
 uVIsion
 
-After this, click "Download" icon. Flash memory should be programmed and in "Build Output" widnow should are written following messages :
+After this, click "Download" icon. Flash memory should be programmed and in "Build Output" widnow should are written 
+following messages :
 
 STM32 ST-LINK CLI v1.2
 STM32 ST-LINK Command Line Interface
