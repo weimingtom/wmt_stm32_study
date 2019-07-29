@@ -400,3 +400,10 @@ https://github.com/danieleff/STM32GENERIC
 
 ## stm32duino  
 https://github.com/stm32duino/BoardManagerFiles  
+
+## sw4stm32开发stm32  
+https://blog.csdn.net/weixin_39871788/article/details/80641997  
+
+## 新手心得 : HAL 练习 STM32F030F4P6   
+http://www.51hei.com/bbs/dpj-139871-1.html  
+
