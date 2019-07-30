@@ -219,11 +219,14 @@ F105RBT6(数量1):  50元左右, 128k/64k, 51针, 72MHz
 
 ## Solder STM32 IC by oneself    
 目前看中的少针脚stm32芯片，用于练习手工焊接IC（部分参考自源地工作室）：  
-(1) STM32F103C8: LQFP48, 64k flash, 20k sram  
-(2) STM32F030F4: TSSOP20, 16k flash, 4k sram  
-(3) STM32L011D3: TSSOP14, 16k flash, 2k sram （源地为D4版）  
-(4) STM32F030C8: LQFP48, 64k flash, 8k sram  
+(1) STM32F103C8: LQFP-48, 64k flash, 20k sram  
+(2) STM32F030F4: TSSOP-20, 16k flash, 4k sram  
+(3) STM32L011D3: TSSOP-14, 16k flash, 2k sram （源地为D4版）  
+(4) STM32F030C8: LQFP-48, 64k flash, 8k sram  
+(5) STM32F030K6: LQFP-32, 32k flash, 4k sram （罕见）  
+(6) STM32F042K6: LQFP-32, 32k flash, 6k sram (罕见，有nucleo板)  
 推荐用STM32F030F4，然后是STM32F103C8  
+最后两款用的人比较少，(6)有官方的nucleo板  
 
 ## Android-nRF-Toolbox  
 https://github.com/NordicSemiconductor/Android-nRF-Toolbox  
