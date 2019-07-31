@@ -85,7 +85,7 @@ http://www.openedv.com/thread-284556-1-1.html
 * uFun开发板, STM32F103RCT6, 面包板社区    
 https://forum.mianbaoban.cn/topic/70846_1_1.html  
 * Alios Things  
-Starter Kit (STM32L433, 256KB Flash, 64KB SRAM)    
+Starter Kit (STM32L433CCT6, 256KB Flash, 64KB SRAM)    
 Developer Kit (STM32L496VGTx, 1MB Flash, 320KB SRAM)  
 https://github.com/alibaba/AliOS-Things/wiki/AliOS-Things-Starter-Kit-Quick-Start-Guide  
 http://www.notioni.com/#/source  
