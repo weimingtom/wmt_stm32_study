@@ -298,6 +298,7 @@ https://github.com/derekevans/W25Q16
 (baidupan) infones_esp32_v1.rar  
 (baidupan) infones_esp32_v4_hard_spi_64MHz.rar  
 (baidupan) infones_esp32wrover_v3_no_psram.rar  
+(baidupan) infones_stm32f429ig_compare_v1.rar  
 
 ## nofrendo stm32f4  
 (baidupan) nofrendo-2.0pre1.zip  
