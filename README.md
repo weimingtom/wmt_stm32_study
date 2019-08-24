@@ -118,6 +118,15 @@ https://www.adafruit.com/product/4324
 https://github.com/KittenBot/uf2-meowbit  
 https://github.com/KittenBot/uf2-meowbit/blob/master/screen.c  
 
+## 小型开发板  
+* 树莓派zero  
+* 荔枝派nano  
+* 荔枝派zero  
+* NanoPi Duo2  
+* 香蕉派M2 Zero  
+* Linkit Smart 7688  
+* Onion Omega2p  
+
 ## Arduino-like libraries   
 * STSW-STM32050  
 http://www.stmcu.org.cn/document/detail/index/id-217275  
