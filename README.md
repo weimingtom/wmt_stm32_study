@@ -118,6 +118,9 @@ https://www.adafruit.com/product/4324
 https://github.com/KittenBot/uf2-meowbit  
 https://github.com/KittenBot/uf2-meowbit/blob/master/screen.c  
 
+## rt-thread  
+* (baidupan) rt-thread-3.1.0_v8_emulator_success.rar  
+
 ## 小型开发板  
 * 树莓派zero  
 * 荔枝派nano  
