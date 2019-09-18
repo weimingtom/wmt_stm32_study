@@ -444,3 +444,9 @@ http://www.51hei.com/bbs/dpj-139871-1.html
 https://ugfx.io  
 https://github.com/arabine/taptempo-stm32f469i-discovery/tree/master/STM32F469I-Disco/uGFX  
 
+## 盘它STM32H750之一  
+http://bbs.eeworld.com.cn/forum.php?mod=viewthread&tid=1073345&extra=  
+http://bbs.eeworld.com.cn/forum.php?mod=viewthread&tid=1073902&extra=  
+http://bbs.eeworld.com.cn/forum.php?mod=viewthread&tid=1076076&extra=  
+橙柠科技  
+
