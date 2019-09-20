@@ -450,3 +450,7 @@ http://bbs.eeworld.com.cn/forum.php?mod=viewthread&tid=1073902&extra=
 http://bbs.eeworld.com.cn/forum.php?mod=viewthread&tid=1076076&extra=  
 橙柠科技  
 
+## TencentOS tiny  
+https://cloud.tencent.com/product/tos-tiny   
+https://github.com/Tencent/TencentOS-tiny   
+
