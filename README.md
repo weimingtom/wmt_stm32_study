@@ -455,3 +455,7 @@ http://bbs.eeworld.com.cn/forum.php?mod=viewthread&tid=1076076&extra=
 https://cloud.tencent.com/product/tos-tiny   
 https://github.com/Tencent/TencentOS-tiny   
 
+## samd21  
+http://www.microdigitaled.com/ARM/Atmel_ARM_books.htm  
+http://www.microdigitaled.com/ARM/Atmel_ARM/Tutorial/Keil_v6_Atmel_SAMD21_project.pdf  
+
