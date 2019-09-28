@@ -467,3 +467,4 @@ http://www.microdigitaled.com/ARM/ASM_ARM/Software/KeilAsmTutorial.pdf
 ## liteos  
 https://github.com/Huawei/Huawei_LiteOS_Kernel  
 https://github.com/LiteOS/LiteOS  
+https://liteos.github.io/quick-start/intro/a-simple-blinky-demo.html  
