@@ -463,3 +463,7 @@ http://www.microdigitaled.com/ARM/Atmel_ARM/Tutorial/Keil_v6_Atmel_SAMD21_projec
 http://www.microdigitaled.com/ARM/ASM_ARM/Code/ARM_ASM_codes.htm  
 http://www.microdigitaled.com/ARM/ARM_ASM_books.htm  
 http://www.microdigitaled.com/ARM/ASM_ARM/Software/KeilAsmTutorial.pdf  
+
+## liteos  
+https://github.com/Huawei/Huawei_LiteOS_Kernel  
+https://github.com/LiteOS/LiteOS  
