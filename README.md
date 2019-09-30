@@ -1,4 +1,4 @@
-# wmt_stm32_study  
+﻿# wmt_stm32_study  
 
 ## Arduino-like Boards / Arduino 32-bit / Other AVR / Linux Board        
 * 创乐博ZYSTM32, STM32F103RC     
@@ -132,6 +132,32 @@ https://github.com/KittenBot/uf2-meowbit/blob/master/screen.c
 * 香蕉派M2 Zero  
 * Linkit Smart 7688  
 * Onion Omega2p  
+
+## keil 4 support  
+* (F1)  
+* STM32F103C8  
+* STM32F103RC  
+* STM32F103RB  
+* STM32F103ZE  
+* STM32F103VE  
+* STM32F105RC  
+* STM32F107RC  
+* stm32f1 k not supported  
+* (L1)  
+* STM32L1C8T6  
+* (F0)  
+* STM32F030C8  
+* STM32F030F4      
+* STM32F031K6     
+* (F4)  
+* STM32F407ZG   
+* STM32F407ZE  
+* STM32F407VE    
+* STM32F429IG    
+* STM32F401CC     
+* STM32F405RG      
+* (F3)  
+* STM32F303RC  
 
 ## Arduino-like libraries   
 * STSW-STM32050  
