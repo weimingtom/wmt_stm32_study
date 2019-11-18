@@ -117,6 +117,11 @@ http://wiki.dfrobot.com.cn/index.php?title=(SKU:DFR0329)Bluno_M3%E6%8E%A7%E5%88%
 https://www.adafruit.com/product/4324  
 https://github.com/KittenBot/uf2-meowbit  
 https://github.com/KittenBot/uf2-meowbit/blob/master/screen.c  
+* Seeeduino Femto, SAMD21G18  
+* ROCK PI S, rk3308  
+https://wiki.radxa.com/Home  
+https://shop.allnetchina.cn  
+https://wiki.radxa.com/RockpiS  
 
 ## rt-thread  
 * (baidupan) rt-thread-3.1.0_v8_emulator_success.rar  
