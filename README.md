@@ -122,6 +122,9 @@ https://github.com/KittenBot/uf2-meowbit/blob/master/screen.c
 https://wiki.radxa.com/Home  
 https://shop.allnetchina.cn  
 https://wiki.radxa.com/RockpiS  
+* RTL8710AF, 瑞昱Realtek      
+https://www.amebaiot.com  
+
 
 ## rt-thread  
 * (baidupan) rt-thread-3.1.0_v8_emulator_success.rar  
