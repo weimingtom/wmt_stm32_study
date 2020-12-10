@@ -56,7 +56,7 @@ https://nuvoton.tmall.com
 https://blog.csdn.net/b7376811/article/details/87805201  
 * onenet  
 https://open.iot.10086.cn/v4/productservice/onenetdevboard/  
-* Arch Mix, rt1050    
+* Arch Mix, i.MX RT1052      
 http://dy.163.com/v2/article/detail/EA3E5ME80524PLTC.html  
 http://wiki.seeedstudio.com/cn/Arch_Mix/  
 * 荔枝派nano, F1C100s, Sipeed, 深圳矽速科技        
@@ -124,6 +124,23 @@ https://shop.allnetchina.cn
 https://wiki.radxa.com/RockpiS  
 * RTL8710AF, 瑞昱Realtek      
 https://www.amebaiot.com  
+* H7Pi v1.1, STM32H750VBT6      
+https://gitee.com/pinno/H7PISDK  
+https://pinno.cc/2020/02/28/H7PI/  
+https://github.com/HTCTEK/H7PI  
+https://gitee.com/pinno/H7PI  
+https://gitee.com/pinno/kicad-lib  
+* AmebaZ2, Ameba RTL8720CM  
+https://github.com/ambiot/ambz2_sdk  
+https://github.com/Seeed-Studio/seeed-ambd-sdk  
+https://www.amebaiot.com/cn/  
+https://www.amebaiot.com.cn  
+http://www.realtek.com/  
+https://www.amebaiot.com/cn/ameba-amazon-summary/  
+https://www.amebaiot.com/amazon-freertos-getting-started/  
+https://www.amebaiot.com.cn/sdk-download-manual-8720/  
+https://www.amebaiot.com/sdk-download-manual-8720/  
+https://www.amebaiot.com.cn/sdk-download-manual-8720/  
 
 
 ## rt-thread  
