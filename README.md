@@ -141,7 +141,8 @@ https://www.amebaiot.com/amazon-freertos-getting-started/
 https://www.amebaiot.com.cn/sdk-download-manual-8720/  
 https://www.amebaiot.com/sdk-download-manual-8720/  
 https://www.amebaiot.com.cn/sdk-download-manual-8720/  
-
+* ZLG, EasyARM-RT1052  
+https://www.zlgmcu.com/utilitymcu/utilitymcu/product/id/25.html  
 
 ## rt-thread  
 * (baidupan) rt-thread-3.1.0_v8_emulator_success.rar  
