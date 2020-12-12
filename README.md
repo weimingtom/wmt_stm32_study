@@ -523,3 +523,21 @@ https://liteos.github.io/quick-start/intro/a-simple-blinky-demo.html
 ## apache mynewt  
 http://mynewt.apache.org  
 https://github.com/apache/mynewt-core  
+
+## J-Link  
+(y, 6.32c) SEGGER, JLINK_V9使用说明书  
+(y, 6.40) JLink_Windows_V640.exe, support imx1060, samd21    
+(y, 4.92) TLS-J-Link OB  
+(x, 5.12a) JLINK_V9使用说明书    
+(x, 6.12a) JLINK_V9使用说明书  
+(x, 6.30b) JLink_Windows_V630b.rar  
+(x, 4.78j) JLINK_v4.78j  
+(x, 6.70) JLink_Windows_V670.exe, not for jlinkob    
+(x, 6.50) JLink_Windows_V650.exe, not for jlinkob  
+en.stm32cubeprog.zip, STM32CubeProgrammer  
+ST-LINK V2 驱动程序  
+STM32 ST-LINK Utility_v3.5.exe  
+https://www.segger.com/downloads/jlink  
+J-Link Software and Documentation Pack  
+点击这里->Click for downloads  
+展开，然后选择第一行，选择版本  
