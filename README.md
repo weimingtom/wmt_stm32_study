@@ -145,6 +145,7 @@ https://www.amebaiot.com.cn/sdk-download-manual-8720/
 https://www.zlgmcu.com/utilitymcu/utilitymcu/product/id/25.html  
 * 逐飞, RT1064  
 https://gitee.com/seekfree/RT1064_Library  
+* 全志, XR871  
 
 ## rt-thread  
 * (baidupan) rt-thread-3.1.0_v8_emulator_success.rar  
