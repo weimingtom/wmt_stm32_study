@@ -146,6 +146,9 @@ https://www.zlgmcu.com/utilitymcu/utilitymcu/product/id/25.html
 * 逐飞, RT1064  
 https://gitee.com/seekfree/RT1064_Library  
 * 全志, XR871  
+* XR808  
+https://github.com/Ai-Thinker-Open/Ai-Thinker-Open_XR808_SDK  
+https://docs.ai-thinker.com/xr  
 
 ## rt-thread  
 * (baidupan) rt-thread-3.1.0_v8_emulator_success.rar  
