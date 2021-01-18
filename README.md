@@ -549,6 +549,7 @@ J-Link Software and Documentation Pack
 点击这里->Click for downloads  
 展开，然后选择第一行，选择版本  
 
-## h7pi  
+## h7pi, stm32h750    
 https://gitee.com/htctek/H7PI_MultiBootloader/tree/H7PI_v1.0_Adapted  
 https://gitee.com/Pinno/H7PI  
+https://gitee.com/htctek/H7PI_Samples  
