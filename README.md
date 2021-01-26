@@ -149,6 +149,8 @@ https://gitee.com/seekfree/RT1064_Library
 * XR808  
 https://github.com/Ai-Thinker-Open/Ai-Thinker-Open_XR808_SDK  
 https://docs.ai-thinker.com/xr  
+* CC3220, CC3200  
+https://github.com/cesanta/mongoose-os  
 
 ## rt-thread  
 * (baidupan) rt-thread-3.1.0_v8_emulator_success.rar  
