@@ -152,6 +152,9 @@ https://docs.ai-thinker.com/xr
 * CC3220, CC3200  
 https://github.com/cesanta/mongoose-os  
 
+## MDK5  
+search MDK526  
+
 ## rt-thread  
 * (baidupan) rt-thread-3.1.0_v8_emulator_success.rar  
 
