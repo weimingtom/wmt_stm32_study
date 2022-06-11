@@ -562,3 +562,9 @@ https://gitee.com/htctek/H7PI_Samples
 ## up to 6-AXIS-USBCNC-GRBL, stm32f103c8t6  
 https://github.com/robomechs/6-AXIS-USBCNC-GRBL  
 https://robomechs.com/grbl-1-1-smt32f103c8t6/  
+
+## 国产替代 MCU 踩坑记, STM32F030F4P6 alter    
+https://new.qq.com/omn/20210402/20210402A015N900.html  
+CKS32F030F4P6  
+HK32F030MF4P6  
+XM1008F6P6  
