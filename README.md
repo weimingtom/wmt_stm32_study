@@ -568,3 +568,6 @@ https://new.qq.com/omn/20210402/20210402A015N900.html
 CKS32F030F4P6  
 HK32F030MF4P6  
 XM1008F6P6  
+
+## cli  
+* https://github.com/cwestergren/maple-leaf-iotest  
